@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Permissions</string>
+    <string name="permission_preference">Permissions</string>
+    <string name="permission_write">Write</string>
+    <string name="permission_read">Read</string>
+
+</resources>
